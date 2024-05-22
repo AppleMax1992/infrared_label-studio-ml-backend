@@ -66,8 +66,9 @@ label-studio-ml start my_ml_backend --port 9090
 ![image](https://github.com/AppleMax1992/label-studio--/assets/77500295/8196ad63-bf91-4c4b-8d67-c2f6137bb2c3)
 
 
-可以看到prediction字段已经成功返回了内容
-![image](https://github.com/AppleMax1992/label-studio--/assets/77500295/bfe189ec-2f7a-4e49-9ede-11b16fcd5cb2)
+可以看到label-studio中已经生成了可以编辑的目标框
+![image](https://github.com/AppleMax1992/infrared_label-studio-ml-backend/assets/77500295/bbdf2096-8c10-4d3a-a2b3-1a895eebe7b6)
+
 
 
 
